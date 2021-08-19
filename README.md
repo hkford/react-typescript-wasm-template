@@ -36,6 +36,8 @@ In `webpack.config.js` you can comment out WasmPackPlugin, otherwise wasm-pack c
 npm run start
 ```
 
+Open the browser and you can see th react application in `http://localhost:8080`.
+
 ### References
 - [Call wasm from App.tsx](https://qiita.com/SoraKumo/items/d68b78bedda91ff08435#nextjs%E3%81%8B%E3%82%89wasm%E3%82%92%E5%91%BC%E3%81%B3%E5%87%BA%E3%81%99%E3%82%B3%E3%83%BC%E3%83%89)
 - [Setting up React+TypeScript environment](https://www.zeroclock.dev/posts/2020/05/rust-webassembly-react-ts/#react-%E3%81%A8-typescript-%E3%81%AE%E7%92%B0%E5%A2%83%E3%82%92%E6%95%B4%E3%81%88%E3%82%8B)
