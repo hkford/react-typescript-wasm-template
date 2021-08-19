@@ -1,5 +1,5 @@
 import React from "react";
-import { sums, fib } from "../../pkg/wasm_ts_bg.wasm"
+import { sums, fib } from "../../pkg/wasm_react_typescript_bg.wasm"
 import { useState } from "react";
 
 function fibonacciByJS(x: number): number {
